@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### I am am Industrial Engineering student and a BI developer
+#### I am an Industrial Engineering student and a BI developer
 looking to expand my coding skills and contribute more to open source code!
 
 Skills: Java / Python / SQL / HTML / CSS
