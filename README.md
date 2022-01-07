@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Sagie
+
 ---
+
 #### I am am Industrial Engineering student and a BI developer
 looking to expand my coding skills and contribute more to open source code!
 
 Skills: Java / Python / SQL / HTML / CSS
+
 ---
+
 - 🔭 I’m currently working on my first Flutter App 
 
 
