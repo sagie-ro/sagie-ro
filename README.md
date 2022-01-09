@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Sagie
 
 ---
-
+<a>
 #### I am an Industrial Engineering student and a BI developer
 looking to expand my coding skills and contribute more to open source code!
 
 Skills: Java / Python / SQL / HTML / CSS
 
 - 🔭 I’m currently working on my first Flutter App 
+</a>
+<a>
+  <img align="right" alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovz5aes8kt16xv1ledn4ytjuoclbcso63z95tjr2&rid=giphy.gif&ct=g"
+</a>
 
 ---
 
