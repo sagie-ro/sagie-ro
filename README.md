@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center" Hi there 👋, my name is Sagie </h1>
+<h1 align="center"> Hi there 👋, my name is Sagie. </h1>
 
---- 
+---
 
 <img align="right" alt="coding" width=250 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovz5aes8kt16xv1ledn4ytjuoclbcso63z95tjr2&rid=giphy.gif&ct=g">
 
