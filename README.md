@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, my name is Sagie <img align="right" alt="coding" width=300 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovz5aes8kt16xv1ledn4ytjuoclbcso63z95tjr2&rid=giphy.gif&ct=g">
+### Hi there 👋, my name is Sagie <img align="right" alt="coding" width=250 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovz5aes8kt16xv1ledn4ytjuoclbcso63z95tjr2&rid=giphy.gif&ct=g">
 
 ---
 
