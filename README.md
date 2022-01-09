@@ -29,13 +29,10 @@ Skills: Java / Python / SQL / HTML / CSS
 
 <br>
 <br>
-<br>
 
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sagie-ro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sagie-rootshtain-b1aa9ab8/)  
-
-
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
