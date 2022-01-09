@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Sagie 
 
 --- 
-<img align="right" alt="coding" width=300 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovz5aes8kt16xv1ledn4ytjuoclbcso63z95tjr2&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" hight=250 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovz5aes8kt16xv1ledn4ytjuoclbcso63z95tjr2&rid=giphy.gif&ct=g">
 #### I am an Industrial Engineering student and a BI developer 
 looking to expand my coding skills and contribute more to open source code!
 
