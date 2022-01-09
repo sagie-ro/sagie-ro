@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, my name is Sagie
+### Hi there 👋, my name is Sagie <img align="right" alt="coding" width=400 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovz5aes8kt16xv1ledn4ytjuoclbcso63z95tjr2&rid=giphy.gif&ct=g">
 
 ---
 
 #### I am an Industrial Engineering student and a BI developer
-<img align="right" alt="coding" width=400 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovz5aes8kt16xv1ledn4ytjuoclbcso63z95tjr2&rid=giphy.gif&ct=g">
 looking to expand my coding skills and contribute more to open source code!
 
 Skills: Java / Python / SQL / HTML / CSS
